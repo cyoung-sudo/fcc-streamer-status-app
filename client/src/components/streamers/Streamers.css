@@ -1,0 +1,71 @@
+#streamers {
+  width: 80%;
+  margin: 2em 0em;
+  text-align: center;
+}
+
+#header {
+  margin: 2em;
+}
+
+#header-title {
+  margin-bottom: 0.5em;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+button {
+  margin: 0 0.3em;
+  padding: 0.5em 1em;
+  background-color: #772CE8;
+  color: white;
+  border: none;
+  border-radius: 0.5em;
+  font-weight: bold;
+  transition: all .3s ease-in-out;
+}
+
+button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  margin: 2em 0em;
+  padding: 1em 2em;
+  border-radius: 1em;
+  background-color: hsla(0, 0%, 90%, 0.5);;
+}
+
+li div, img {
+  margin: 0.5em 0;
+}
+
+.streamer-name {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.streamer-name a {
+  text-decoration: none;
+}
+
+.online-icon {
+  color: red;
+  font-size: 0.8em;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.streamer-info {
+  font-size: 0.8em;
+  font-style: italic;
+}
