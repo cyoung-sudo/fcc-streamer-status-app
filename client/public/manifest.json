@@ -3,9 +3,9 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "live.png",
+      "src": "twitch.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "480x480"
     }
   ],
   "start_url": ".",
