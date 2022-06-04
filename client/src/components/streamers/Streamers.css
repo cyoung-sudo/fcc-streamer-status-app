@@ -1,4 +1,5 @@
 #streamers {
+  min-height: 100vh;
   width: 80%;
   margin: 2em 0em;
   text-align: center;
